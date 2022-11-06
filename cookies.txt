@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.drishtiias.com	TRUE	/	FALSE	1999999999	CAKEPHP	s8s5s5v73qggcd5dt67h7ledao
+.bing.com	TRUE	/	FALSE	1999999999	MUID	317EF799955568D13541E5CD94F36962
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	datr	G49nY_c7K0ITcM6l8sRB4MC-
+api.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	deleted
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	ko
+web.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	deleted
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	7919f0cc-d376-414d-a4d2-06df06cd4c35
+
